@@ -1,4 +1,8 @@
-# deep-learning-challenge
+
+![jpegai-home](https://github.com/siqueiranetopedro/deep-learning-challenge/assets/141440536/c6d9e641-0058-4e17-84d4-ab8b29855eaa)
+
+# Deep-learning
+
 Alphabet Soup, a nonprofit organization, needs a tool to identify the most promising funding applicants. The task is to predict whether organizations will be successful if funded by Alphabet Soup using machine learning and neural networks. A dataset with over 34,000 funded organizations is provided, containing various details like application type, affiliation, and income classification.
 
 Step 1: Preprocess the Data
