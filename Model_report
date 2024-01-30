@@ -1,0 +1,15 @@
+Data Preprocessing:
+
+Target Variable: 'IS_SUCCESSFUL' column from application_df.
+Feature Variables: All columns from application_df excluding 'IS_SUCCESSFUL'.
+Removed Variables: 'EIN' and 'NAME' columns were dropped as they were not targets or features.
+Model Compilation, Training, and Evaluation:
+
+Neurons and Layers: Attempted with 8 hidden nodes in the first layer and 5 in the second layer.
+Achievement of Target Performance: Unable to reach the 75% accuracy target.
+Steps Taken for Improvement: Added layers, removed columns, increased hidden nodes, and experimented with activation functions.
+Model Summary:
+
+The deep learning model achieved around 73% accuracy.
+To improve, consider a model with better input-output correlation by performing thorough data cleanup and trying different activation functions.
+A recommendation is to iterate and experiment with various models until a higher accuracy is attained.
